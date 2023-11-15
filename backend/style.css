@@ -1,0 +1,57 @@
+/* everything */
+body {
+  background-color: darkgray;
+  margin: 0;
+  font-family: helvetica;
+  text-align: center;
+}
+
+/* header */
+section.h {
+  background-color: #14171A;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.h div {
+  background-color: #657786;
+  margin: 5px 5px;
+  padding: 5px 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+p.h {
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+/* Elements inside (Inside element or Ielm) */
+.Ielm {
+    display: flex;
+    justify-content: center;
+    margin: 0 5px;
+}
+
+/* welcoming the user */
+h1.welcome {
+    background-color: white;
+    width: auto;
+    height: 80px;
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+    margin: 0;
+    padding: 75px 30px;
+}
+
+/* for page titles */
+h2 {
+    font-size: 56px;
+}
+
+/* comments */
+
