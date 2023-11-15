@@ -1,1 +1,1 @@
-# comments.github.io/SQL.php
+# "comments" database
